@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Akash 👋
+I'm an Embedded Systems Engineer with experience in machine learning and computer vision. Here's a glimpse of my work and projects.
 
-<!--
-**awsmak/awsmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
+- [Spam Filter using Naive Bayes](link-to-repo): Classifies incoming emails using a Naive Bayes algorithm.
+- [Optical Plant Detection System](link-to-repo): Real-time plant detection system using custom YOLOv3.
+- [Snake Game](link-to-repo): Python turtle graphics-based Snake game.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Embedded Systems
+- Machine Learning
+- Computer Vision
+- Python, C++
