@@ -11,7 +11,7 @@ This profile hosts some of the academic and personal projects I have done and pr
 
 ## 🚀Projects associated with courses
 - [**MyCUDAPrograms**](https://github.com/awsmak/MyCudaPrograms.git): Projects associated with Udemy coarse CUDA master class.
-- [**Snake game using turtile graphics**](https://github.com/awsmak/Snake-game-using-turtle-graphics.git): A UNET-based segmentation model for detecting blood vessels in retina images using PyTorch.
+- [**Snake game using turtile graphics**](https://github.com/awsmak/Snake-game-using-turtle-graphics.git): Python Practice Project
 
 
 ## 📜 Publications
