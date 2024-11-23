@@ -4,11 +4,8 @@ I am an Embedded Systems Engineer passionate about Machine Learning, Deep learni
 This profile hosts some of the academic and personal projects I have done and projects I did as part of online training courses.  
 
 
-
-## 🎓 Master's Project 
-- [**Optical Plant Detection for Farming Vehicles**](https://github.com/awsmak/Optical-Plant-Identification-for-Farming-Vehicles-.git): Real-time plant detection system using custom YOLOv3 and EfficientDet Lite models, implemented on Raspberry Pi.
-
 ## 🚀 ML and DL Projects
+- [**Optical Plant Detection for Farming Vehicles**](https://github.com/awsmak/Optical-Plant-Identification-for-Farming-Vehicles-.git): Real-time plant detection system using custom YOLOv3 and EfficientDet Lite models, implemented on Raspberry Pi.
 - [**Retina Blood Vessel Segmentation**](https://github.com/awsmak/retina_blood_vessel_segmentation.git): A UNET-based segmentation model for detecting blood vessels in retina images using PyTorch.
 - [**COVID-19 Detection Using Chest X-Rays**](https://github.com/awsmak/Covid19-detection-using-X-Ray-images-TensorFlow-and-Keras-.git): Classifies chest X-ray images into 'Covid19' or 'Normal' using CNNs built in TensorFlow and Keras.
 
