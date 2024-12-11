@@ -5,6 +5,7 @@ This profile hosts some of the academic and personal projects I have done and pr
 
 
 ## 🚀 ML and DL Projects
+- [**FusionTrack3D**](https://github.com/awsmak/fusiontrack3d.git): A multi-modal 3D object detection and tracking system that fuses LiDAR point cloud data with camera imagery. This project implements state-of-the-art deep learning techniques for real-time object detection and tracking using sensor fusion.
 - [**Optical Plant Detection for Farming Vehicles**](https://github.com/awsmak/Optical-Plant-Identification-for-Farming-Vehicles-.git): Real-time plant detection system using custom YOLOv3 and EfficientDet Lite models, implemented on Raspberry Pi.
 - [**Retina Blood Vessel Segmentation**](https://github.com/awsmak/retina_blood_vessel_segmentation.git): A UNET-based segmentation model for detecting blood vessels in retina images using PyTorch.
 - [**COVID-19 Detection Using Chest X-Rays**](https://github.com/awsmak/Covid19-detection-using-X-Ray-images-TensorFlow-and-Keras-.git): Classifies chest X-ray images into 'Covid19' or 'Normal' using CNNs built in TensorFlow and Keras.
