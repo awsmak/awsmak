@@ -4,7 +4,6 @@ I develop computer vision algorithms and build optimized ML models that run on e
 
 Based in Germany | Focus: Computer Vision, Quantization, ONNX deployment, edge inference , Embedded Systems
 
----
 
 ## What I Work On
 
@@ -17,13 +16,13 @@ and recommending mixed-precision configurations.
 
 **Background**: 
 - 🏭 Production C++ CV pipelines at **RockFeel GmbH**: thermal imaging, 
-  YOLO-based detection, dynamic camera calibration and firmware development.
+  YOLO-based detection/tracking, dynamic camera calibration and firmware development.
 - 🔬 Master's thesis at **CARIAD SE (VW Group)**: Mixed-precision PTQ of CNNs — 
   improved A8W4 quantized model accuracy by 2%
 - 🧬 Medical imaging research at **Fraunhofer IAIS**: spinal MRI segmentation 
   (ESANN 2023 publication)
 
----
+
 
 ## Featured Projects
 
@@ -47,14 +46,13 @@ and EfficientDet Lite — a complete edge AI deployment from training to inferen
 UNet-based semantic segmentation for medical imaging.  
 **Stack**: PyTorch, UNet architecture
 
----
+
 
 ## Publications
 
 **Segmentation and Analysis of Lumbar Spine MRI Scans for Vertebral Body Measurements** — ESANN 2023  
-[Paper link](https://www.esann.org/sites/default/files/proceedings/2023/...) *(add real link)*
+[Paper link]([https://www.esann.org/sites/default/files/proceedings/2023/...](https://www.esann.org/sites/default/files/proceedings/2023/ES2023-88.pdf))
 
----
 
 ## Tech I Use
 
@@ -64,6 +62,5 @@ UNet-based semantic segmentation for medical imaging.
 **Edge/Optimization**: Quantization (PTQ, mixed-precision), model compression  
 **Tooling**: Linux, Docker, CMake, Git, GitHub Actions
 
----
 
-📫 [LinkedIn](https://www.linkedin.com/in/akash-ashokan-698a6a1b2/)
+[LinkedIn](https://www.linkedin.com/in/akash-ashokan-698a6a1b2/)
