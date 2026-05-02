@@ -15,11 +15,11 @@ an open-source tool for diagnosing accuracy loss in quantized ONNX models
 and recommending mixed-precision configurations.
 
 **Background**: 
-- 🏭 Production C++ CV pipelines at **RockFeel GmbH**: thermal imaging, 
+- Production C++ CV pipelines at **RockFeel GmbH**: thermal imaging, 
   YOLO-based detection/tracking, dynamic camera calibration and firmware development.
-- 🔬 Master's thesis at **CARIAD SE (VW Group)**: Mixed-precision PTQ of CNNs — 
+- Master's thesis at **CARIAD SE (VW Group)**: Mixed-precision PTQ of CNNs — 
   improved A8W4 quantized model accuracy by 2%
-- 🧬 Medical imaging research at **Fraunhofer IAIS**: spinal MRI segmentation 
+- Medical imaging research at **Fraunhofer IAIS**: spinal MRI segmentation 
   (ESANN 2023 publication)
 
 
