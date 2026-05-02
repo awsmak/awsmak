@@ -35,7 +35,7 @@ accuracy. Per-layer sensitivity analysis, visual HTML reports, mixed-precision
 recommendations. Vendor-neutral.  
 **Stack**: Python, ONNX Runtime, NumPy, Plotly
 
-### 🚗 [FusionTrack3D](https://github.com/awsmak/fusiontrack3d)
+### 🚗 [FusionTrack3D](https://github.com/awsmak/fusiontrack3d) *(in development)*
 Multi-modal 3D object detection and tracking that fuses LiDAR point clouds with 
 camera imagery — relevant to autonomous driving perception stacks.  
 **Stack**: PyTorch, point cloud processing, sensor fusion
